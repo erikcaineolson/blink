@@ -1,0 +1,7 @@
+.hideMe {
+    display: none;
+}
+
+.showMe {
+    display: inline;
+}
