@@ -7,4 +7,4 @@ Blink makes stuff appear and disappear (at random) on a page. Some friends and I
 
 Blink grabs a tag at random and applies an interval CSS control to make some portion appear and disappear at random.
 
-All you have to do is include the script, stylesheet, and then call Blink(*n*) (where *n* is in milliseconds, so 1000*n* = 1 second).
+All you have to do is include the script, stylesheet, and then call Blink(*n*) (where *n* is in milliseconds, so ``Blink(1000)`` will have a delay of 1 second).
